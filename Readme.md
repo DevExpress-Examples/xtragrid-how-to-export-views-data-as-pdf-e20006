@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/XtraGridExportViewAsPDF/Form1.cs)
+* [Program.cs](./CS/XtraGridExportViewAsPDF/Program.cs)
+<!-- default file list end -->
 # XtraGrid - How to Export View's Data as PDF
 
 
